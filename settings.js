@@ -20,18 +20,18 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.ownernumber = '918438374975' //ur owner number
+global.ownername = 'Nathan' //ur owner name
+global.websitex = "https://wa.me/918438374975"
+global.wagc = "https://whatsapp.com/channel/0029VaRl5VF7tkjAzD312Q1f"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
+global.packname = ""
+global.author = "ㅤㅤ🔮ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :\n\n༺『 Nathan 』༻"
 global.creator = "916909137213@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["916003951523"] // Premium User
 global.hituet = 0
 
 //bot sett
